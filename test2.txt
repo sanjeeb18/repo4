@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2A2C-6057
+
+ Directory of C:\Users\DELL\Desktop\my project
+
+06-09-2018  05:12    <DIR>          .
+06-09-2018  05:12    <DIR>          ..
+06-09-2018  05:00                23 index.html
+06-09-2018  05:00                 6 test1.text
+06-09-2018  05:12                 0 test2.txt
+               3 File(s)             29 bytes
+               2 Dir(s)  764,732,252,160 bytes free
